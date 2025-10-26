@@ -1,6 +1,6 @@
 # 🎯 Day 13 — Mini Project: Placement Predictor
 
-This project is part of my **100 Days of Machine Learning Challenge** inspired by the [CampusX 100 Days of ML Playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdON1A6R).
+This project is part of my **100 Days of Machine Learning Challenge** inspired by the [CampusX 100 Days of ML Playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH).
 
 ---
 
